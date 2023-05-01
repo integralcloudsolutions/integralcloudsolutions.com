@@ -10,7 +10,11 @@ We're a Greater Boston based venture delivering free software, awesome innovatio
 
 ## What do you do?
 
-We build services. We're a team of highly skilled, extremely capable computer software engineers. We can build web sites, web services, mobile applications, games, desktop apps &mdash; we specialize in high demand, realtime, highly sensitive, high security, user-privacy centric, algorithm-driven, advanced database powered services. Basically, we're good at building tough things. Our team isn't like average programmers, we're specialists and experts.
+We build services and automation. We're a team of highly skilled, extremely capable computer software engineers. We can build microservices, web sites, web services, mobile applications, games, desktop apps &mdash; we specialize in high demand, realtime, highly sensitive, high security, user-privacy centric, algorithm-driven, advanced database powered services. Basically, we're good at building tough things. Our team isn't like average programmers, we're specialists and experts.
+
+## What Cloud Providers do you have experience with:
+
+AWS, Azure, GC, and IBM/Redhat.
 
 ## What have you built?
 
@@ -24,4 +28,4 @@ sales at integralcloudsolutions . com
 
 ## Anything to show at all?
 
-We try to open-source things when possible. Check us out on [github](https://github.com/integralcloudsolutions).
+We try to open-source things when possible, however under our customer's name. Check us out on [github](https://github.com/integralcloudsolutions).
